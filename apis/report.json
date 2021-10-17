@@ -1,0 +1,34 @@
+{
+  "data": [
+      {
+        "startDate": "2020-12-16",
+        "endDate": "2020-12-19",
+        "period": 4,
+        "cycle": 28,
+      },
+      {
+        "startDate": "2021-01-15",
+        "endDate": "2021-01-18",
+        "period": 7,
+        "cycle": 42,
+      },
+      {
+        "startDate": "2021-03-01",
+        "endDate": "2021-03-07",
+        "period": 5,
+        "cycle": 7,
+      },
+      {
+        "startDate": "2021-03-13",
+        "endDate": "2021-03-22",
+        "period": 10,
+        "cycle": 44,
+      },
+      {
+        "startDate": "2021-05-05",
+        "endDate": "2021-05-19",
+        "period": 15,
+        "cycle": 100,
+      }
+    ]
+}
